@@ -1,0 +1,28 @@
+# Скрываем папки с кэшем и временными файлами
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Скрываем файлы настроек редактора кода (Visual Studio, Rider и т.д.)
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Игнорируем краш-репорты
+sysinfo.txt
